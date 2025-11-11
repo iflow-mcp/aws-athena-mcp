@@ -1,0 +1,2 @@
+[console_scripts]
+iflow-mcp-aws-athena-mcp = iflow_mcp_aws_athena_mcp:main
